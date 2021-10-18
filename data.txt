@@ -1,2 +1,0 @@
-
-java -jar server-0.41.12-java8.jar -dataFolder \local
